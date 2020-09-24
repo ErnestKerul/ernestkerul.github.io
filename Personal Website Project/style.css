@@ -1,0 +1,103 @@
+body {
+	background-color: black;
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100%;
+}
+nav ul{
+  list-style-type: none;
+  margin: 5;
+  padding: 0;
+}
+nav li{
+  display: inline;
+}
+nav li a{
+	color: silver;
+	margin: 100px;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	text-shadow: 2px 3px 2px black;
+	font-size: 22px;
+}
+	
+h1{
+	color: white;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-size: 40px;
+	margin-top: 60px;
+}
+
+table {
+	color: lightblue;
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	font-size: 25px;
+	text-align: center;
+	border-collapse: seperate;
+	border-spacing: 18px 5px;
+}
+	
+main ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+main li{
+	display: inline;
+}
+
+h3{
+	color: white;
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-style: italic;
+}
+
+div table{
+	font-size: 12px;
+	text-align: left;
+	opacity: 1;
+	font-family: Comic Sans MS;
+}
+
+.center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div image{
+	margin-bottom: 20px;
+}
+
+.profile{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+footer table{
+	text-align: right;
+	color: white;
+	position: relative;
+	margin-top: 10px;
+	width: 100%;
+	opacity: 0.8;
+	font-family: Comic Sans MS;
+}
+
+p{
+	font-size: 18px;
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 3px 3px black;
+}
+
+.contacts {
+	padding-left: 200px;
+}
